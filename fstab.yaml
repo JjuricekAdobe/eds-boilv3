@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/jjuricek_adobe_com/Documents/eds-boilerplate-v2?csf=1&web=1&e=dqv89E
 
 folders:
   /products/: /products/default
